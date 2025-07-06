@@ -10,4 +10,8 @@ print(data);
 data.append('limon')
 print(data);
 
+# dictionary practice impordent amra Dart a map boltam ar python a dictionary boli
 
+dictionaryDatacheck = { "fayej": 100, "sakib": 200 }
+
+print(type(dictionaryDatacheck))
