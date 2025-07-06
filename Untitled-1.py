@@ -16,4 +16,7 @@ print('Age>>>>>>',age)
 
 print(type(sellar));
 
+value1=3+3.3j;
+print(type(value1))
+
 
