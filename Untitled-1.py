@@ -14,4 +14,6 @@ print("Sum>>>>>>",sum);
 name,age,sellar= "fayej",26,2500;
 print('Age>>>>>>',age)
 
+print(type(sellar));
+
 
