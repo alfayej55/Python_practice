@@ -17,8 +17,6 @@ if data in name :
 else :
     print('not present')
 
-
-
     # And / or Oparetor practice
 
 
@@ -29,3 +27,4 @@ if(exprince=='y' and company==2):
     print("select>>>")
 else :
     print("not select")
+ 
