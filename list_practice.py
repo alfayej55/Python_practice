@@ -1,21 +1,22 @@
 
-data= ['fayej','palas','limon']
+# data= ['fayej','palas','limon']
 
-print(data);
+# print(data);
 
-data.remove(data[2]);
+# data.remove(data[2]);
 
-print(data);
+# print(data);
 
-data.append('limon')
-print(data);
+# data.append('limon')
+# print(data);
 
-index=data.index('palas')
+# index=data.index('palas')
 
-print(index);
+# print(index);
 
-data[index]="palash";
-print(data)
+# data[index]="palash";
+
+# print(data)
 
 
 
@@ -23,5 +24,7 @@ print(data)
 # dictionary practice impordent amra Dart a map boltam ar python a dictionary boli
 
 dictionaryDatacheck = { "fayej": 100, "sakib": 200 }
+
+print("data>>>>>>>>>", dictionaryDatacheck['sakib']);
 
 print(type(dictionaryDatacheck))
